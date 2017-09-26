@@ -20,7 +20,6 @@ data1 <- read_csv("data/data1.csv")
 data2 <- read_csv("data/data2.csv")
 ```
 
-
 # Question
 
 For both `data1` and `data2` tibbles (a tibble is a data frame with some
