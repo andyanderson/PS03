@@ -1,6 +1,6 @@
 ---
 title: "STAT/MATH 495: Problem Set 03"
-author: "Andy Anderson, Ph.D., Amherst College, Amherst, MA"
+author: "Andy Anderson, Ph.D., Amherst College, Amherst, MA, USA"
 date: "2017-09-26"
 output:
   html_document:
