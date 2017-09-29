@@ -1,6 +1,6 @@
 ---
 title: "STAT/MATH 495: Problem Set 03"
-author: "Andy Anderson, Ph.D., Amherst College, Amherst, MA, USA, Earth"
+author: "Andy Anderson, Ph.D., Amherst College, Amherst, MA, USA, Earth, Solar System"
 date: "2017-09-28"
 output:
   html_document:
